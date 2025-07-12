@@ -1,0 +1,94 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.project
+.settings/
+.classpath
+*.sublime-workspace
+*.sublime-project
+
+# Dependency Directories
+node_modules/
+vendor/
+venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build Outputs
+dist/
+build/
+out/
+target/
+*.egg-info/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Sensitive Data
+*.pem
+*.key
+*.crt
+*.p12
+secrets/
+credentials/
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+test-results/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.cache
+.cache/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Other
+*.pid
+*.seed
+*.pid.lock
